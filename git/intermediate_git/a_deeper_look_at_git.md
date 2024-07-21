@@ -141,9 +141,13 @@ You might be feeling overwhelmed at this point, so let's recap what we've learne
 
 <div class="lesson-content__panel" markdown="1">
 
-1. Read the chapter on [Rebasing covered by git-scm](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) for an even deeper dive into Rebasing.
 
-1. Read the chapter on [Reset covered by git-scm](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) for a deeper dive into `git reset`.
+
+1. Watch [How Git Works: Explained in 4 minutes](https://www.youtube.com/watch?v=e9lnsKot_SQ&pp=ygUDZ2l0) for a well explained introduction to git
+2. Read [think-like-a-git](http://think-like-a-git.net/), an outstanding resource for learning the fundamentals of git
+3. Complete the first three sub-sections in the main section of [Learn Git Branching](https://learngitbranching.js.org/) to better visualize what you've learned
+4. Watch [Git MERGE vs REBASE: Everything You Need to Know](https://www.youtube.com/watch?v=0chZFIZLR_0&pp=ygUGcmViYXNl)
+
 
 </div>
 
@@ -155,6 +159,7 @@ The following questions are an opportunity to reflect on key topics in this less
 - [How can you amend your last commit?](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 - [What are some different ways to rewrite history?](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 
+
 ### Additional resources
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
@@ -162,3 +167,5 @@ This section contains helpful links to related content. It isn't required, so co
 - Read this [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) if you need a reference sheet.
 - Watch this [video about Rebase & Merge](https://www.youtube.com/watch?v=f1wnYdLEpgI) for an example of how to use both rebase and merge.
 - Read the chapter on [Branches covered by git-scm](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) if you want an even deeper dive into Branches.
+- Read the chapter on [Rebasing covered by git-scm](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) for an even deeper dive into Rebasing.
+- Read the chapter on [Reset covered by git-scm](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) for a deeper dive into `git reset`.
